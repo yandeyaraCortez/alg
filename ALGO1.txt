@@ -1,0 +1,13 @@
+Algoritmo "Numpares"
+Var
+num, aux, quantPares:  inteiro
+inicio
+  quantPares := 0
+  para aux de 1 ate 10 passo 1 faca
+     escreva("informe o ", aux, "º numero: ")
+     leia(num)
+     se(num mod 2 = 0) entao
+        quantPares := quantPares + 1
+     fimse
+  fimpara
+  escreval("Pares: ", quantPares)

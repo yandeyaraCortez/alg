@@ -9,14 +9,13 @@ Prof°: Rodrigo da Costa Barros Macedo
 ### Instalamos o Git, no cmd criamos um diretório e  o versionamos os três algoritmos,logo criamos uma conta no Github e um repositório.
 
 ##Adicionando imagem no README.md 
-
-![Captura de Tela 3] https://github.com/yandeyaraCortez/alg/blob/main/Captura%20de%20Tela%20(3).png
-![algo1](https://user-images.githubusercontent.com/82351347/114432311-edaefd00-9b96-11eb-8b47-ab954ffb1885.png)
-
-
-![Capturar 3] (https://github.com/yandeyaraCortez/alg/blob/main/Capturar%203.PNG ) https://github.com/yandeyaraCortez/alg/blob/main/Captura%20de%20Tela%20(
-![algor3](https://user-images.githubusercontent.com/82351347/114431935-76796900-9b96-11eb-8367-79175406f95c.PNG)
+Este primeiro algoritmo tem como obejitvo de escrever de 0 á 20.
+![algo1](https://user-images.githubusercontent.com/82351347/114441502-db868c00-9ba1-11eb-9d5f-b63d702bcf64.png)
 
 
- ![Capturar] (https://github.com/yandeyaraCortez/alg/blob/main/Capturar.PNG)
-![algorit2](https://user-images.githubusercontent.com/82351347/114431983-82fdc180-9b96-11eb-8229-2b9d6d64af30.PNG)
+Este segundo algoritmo  tem como objetivo de mostrar quantos números pares que digitei.
+![algorit2](https://user-images.githubusercontent.com/82351347/114442412-e7bf1900-9ba2-11eb-9f64-6de65dee8dc2.PNG)
+
+
+O último algoritmo nos mostra que os números entre 100 e 150 estão tendo incremento de 2 em 2.
+![algor3](https://user-images.githubusercontent.com/82351347/114444158-ebec3600-9ba4-11eb-80b3-5c04d7437e2b.PNG)

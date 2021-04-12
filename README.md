@@ -10,8 +10,13 @@ Prof°: Rodrigo da Costa Barros Macedo
 
 ##Adicionando imagem no README.md 
 
-![Captura de Tela 3] (https://github.com/yandeyaraCortez/alg/blob/main/Captura%20de%20Tela%20(3).png)
+![Captura de Tela 3] https://github.com/yandeyaraCortez/alg/blob/main/Captura%20de%20Tela%20(3).png
+![algo1](https://user-images.githubusercontent.com/82351347/114432311-edaefd00-9b96-11eb-8b47-ab954ffb1885.png)
 
-![Capturar 3] (https://github.com/yandeyaraCortez/alg/blob/main/Capturar%203.PNG ) 
+
+![Capturar 3] (https://github.com/yandeyaraCortez/alg/blob/main/Capturar%203.PNG ) https://github.com/yandeyaraCortez/alg/blob/main/Captura%20de%20Tela%20(
+![algor3](https://user-images.githubusercontent.com/82351347/114431935-76796900-9b96-11eb-8367-79175406f95c.PNG)
+
 
  ![Capturar] (https://github.com/yandeyaraCortez/alg/blob/main/Capturar.PNG)
+![algorit2](https://user-images.githubusercontent.com/82351347/114431983-82fdc180-9b96-11eb-8229-2b9d6d64af30.PNG)
